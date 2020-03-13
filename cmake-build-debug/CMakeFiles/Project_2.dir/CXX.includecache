@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2/main.cpp
+iostream
+-
+sstream
+-
+fstream
+-
+vector
+-
+
