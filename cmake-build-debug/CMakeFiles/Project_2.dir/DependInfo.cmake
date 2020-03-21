@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2/main.cpp" "/home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2/cmake-build-debug/CMakeFiles/Project_2.dir/main.cpp.o"
+  "/home/adnan/source-code/CLionProjects/Polynomial-Expression/main.cpp" "/home/adnan/source-code/CLionProjects/Polynomial-Expression/cmake-build-debug/CMakeFiles/Project_2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

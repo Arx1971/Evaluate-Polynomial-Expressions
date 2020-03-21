@@ -1,4 +1,4 @@
-# Install script for directory: /home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2
+# Install script for directory: /home/adnan/source-code/CLionProjects/Polynomial-Expression
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/adnan/source-code/CLionProjects/Polynomial-Expression/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

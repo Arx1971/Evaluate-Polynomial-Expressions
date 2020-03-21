@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/adnan/source-code/CLionProjects/CSCI-780_Advanced_CPP/Project_2/main.cpp
+/home/adnan/source-code/CLionProjects/Polynomial-Expression/main.cpp
 iostream
 -
 sstream

@@ -238,7 +238,7 @@ Polynomial &Polynomial::operator*(const Polynomial &polynomial) {
 
 int main() {
     ifstream input;
-    input.open("input.txt");
+    input.open("../input.txt");
     string line;
     LinkedList<string> arr;
 
